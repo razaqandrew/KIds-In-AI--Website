@@ -1,0 +1,6 @@
+{
+  "name": "kids-in-ai--website",
+  "compatibility_date": "2026-10-01",
+  "build": { "command": "rm -rf site && unzip -q -o kidsinai-site_1.zip -d site" },
+  "assets": { "directory": "./site", "not_found_handling": "404-page" }
+}
